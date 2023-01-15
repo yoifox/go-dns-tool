@@ -15,6 +15,6 @@ Try it: [go/](http://go/ "go/") or [go./](http://go./ "go./")
 To use non existing TLDs in browser add `/` to end of host. If your os does not append a suffix automatically add `./` at the end.
 
 **Difference between name links and redirect links:**
-Both redirect. name links can be accessed using [go/short](http://go/short "go/short") redirect links can be accessed using simply [short/](http://short/ "short/").
+Both redirect. Name links can be accessed using [go/short](http://go/short "go/short"). Redirect links can be accessed using simply [short/](http://short/ "short/").
 
 The name go can be changed under name in links.json
