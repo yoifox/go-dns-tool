@@ -14,3 +14,5 @@ To use non existing tlds in browser add `/` to end of host. If your os does not 
 
 **Difference between name links and redirect links:**
 Both redirect. name links can be accessed using [go/short](http://go/short "go/short") redirect links can be accessed using simply [short/](http://short/ "short/").
+
+The name go can be changed under name in links.json
