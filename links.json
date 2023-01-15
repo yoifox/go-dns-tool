@@ -1,0 +1,45 @@
+{
+	"name": {
+		"name": "go",
+		"go": "http://google.com",
+		"google": "http://google.com",
+		"img": "http://images.google.com",
+		"image": "http://images.google.com",
+		"images": "http://images.google.com",
+		"yt": "http://youtube.com",
+		"youtube": "http://youtube.com",
+		"mail": "http://mail.google.com",
+		"git": "http://github.com",
+		"map": "http://google.com/maps",
+		"maps": "http://google.com/maps",
+		"tr": "http://translate.google.com",
+		"dict": "http://translate.google.com",
+		"transl": "http://translate.google.com",
+		"translate": "http://translate.google.com",
+		"hdr": "https://matheowis.github.io/HDRI-to-CubeMap",
+		"hdri": "https://matheowis.github.io/HDRI-to-CubeMap"
+	},
+	"proxy": {
+		"sd": "http://1.1.1.1:7860",
+		"files": "http://1.1.1.1:3000"
+	},
+	"redirect": {
+		"google": "http://google.com",
+		"img": "http://images.google.com",
+		"image": "http://images.google.com",
+		"images": "http://images.google.com",
+		"yt": "http://youtube.com",
+		"youtube": "http://youtube.com",
+		"mail": "http://mail.google.com",
+		"git": "http://github.com",
+		"map": "http://google.com/maps",
+		"maps": "http://google.com/maps",
+		"tr": "http://translate.google.com",
+		"dict": "http://translate.google.com",
+		"transl": "http://translate.google.com",
+		"translate": "http://translate.google.com",
+		"hdr": "https://matheowis.github.io/HDRI-to-CubeMap",
+		"hdri": "https://matheowis.github.io/HDRI-to-CubeMap",
+		"cubemap": "https://matheowis.github.io/HDRI-to-CubeMap"
+	}
+}
