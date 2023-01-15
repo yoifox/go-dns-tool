@@ -2,7 +2,7 @@
 - `npm install`
 - Change the suffix in config.json (optional)
 - Change the host in config.json to your pc ip.
-- Change your dns server in your OS settings.
+- Change your dns server in your network settings.
 - Add your secret key and server certificate in the dns folder
 - `npm start` or `npm net-install` to install as net service.
 ## Using
