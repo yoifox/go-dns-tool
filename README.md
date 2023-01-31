@@ -12,7 +12,7 @@ Try it: [go/](http://go/ "go/") or [go./](http://go./ "go./")
 - **proxy:** put your proxy hosts here.
 - **redirect:** put your redirect links here.
 
-To use non existing TLDs in browser add `/` to end of host. If your os does not append a suffix automatically add `./` at the end.
+To use non existing TLDs in browser add `/` to end of host. If you use a TLD and your os does not append a suffix automatically add `./` at the end.
 
 **Difference between name links and redirect links:**
 Both redirect. Name links can be accessed using [go/example](http://go/example "go/example"). Redirect links can be accessed using simply [example/](http://example/ "example/").
