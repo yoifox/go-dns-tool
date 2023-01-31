@@ -4,7 +4,7 @@
 - Change the host in config.json to your pc ip.
 - Change your dns server in your network settings.
 - Add your secret key and server certificate in the dns folder
-- `npm start` or `npm net-install` to install as net service.
+- `npm start` or `npm run net-install` to install as net service.
 ## Using
 Try it: [go/](http://go/ "go/") or [go./](http://go./ "go./")
 #### links.json
